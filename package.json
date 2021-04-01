@@ -8,12 +8,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/dtsap/npm-package.git"
+    "url": "git+https://github.com/mehmetkazim0/ilk-npm-proje.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/dtsap/npm-package/issues"
+    "url": "https://github.com/mehmetkazim0/ilk-npm-proje/issues"
   },
-  "homepage": "https://github.com/dtsap/npm-package#readme"
+  "homepage": "https://github.com/mehmetkazim0/ilk-npm-proje/#readme"
 }
